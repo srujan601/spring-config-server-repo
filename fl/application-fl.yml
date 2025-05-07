@@ -1,4 +1,4 @@
 app:
-  MongoURi: xyz
+  MongoURi: mongodb://localhost:2701/StudentDb?retrywites=true
   environment: production
   version: 1.0
